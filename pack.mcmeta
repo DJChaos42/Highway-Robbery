@@ -1,0 +1,28 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:update_1_21"
+    ]
+  },
+  "pack": {
+    "pack_format": 26,
+    "supported_formats": {
+      "min_inclusive": 26,
+      "max_inclusive": 32
+    },
+    "description": [
+      {
+        "text": "Highway Robbery",
+        "color": "dark_purple"
+      },
+      {
+        "text": " by DJChaos ",
+        "color": "white"
+      },
+      {
+        "text": "v1.0.0",
+        "color": "green"
+      }
+    ]
+  }
+}
